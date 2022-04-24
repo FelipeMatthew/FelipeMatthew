@@ -1,4 +1,6 @@
-## Saudações! Sou Felipe Matthew, estudante de análise e desenvolvimento de sistemas.
+## Olá, Sou Felipe Matthew
+<h3>Estudante de ADS | WebDesigner | FrontEnd | BackEnd | UxUi </h3><h4>Em Desenvolvimento...</h4>
+
 <div align="center">
   <a href="https://github.com/FelipeMatthew"> 
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=FelipeMatthew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
