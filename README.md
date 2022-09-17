@@ -5,7 +5,7 @@
 
 <p align="left"> 
 ​⭐​ Seja bem-vindo(a) ao meu github ​⭐​ <br><br>
-  Olá me chamo Felipe Matthew, um futuro Fullstack JavaScript, estudante de análise e desenvolvimento de sistemas.
+  Olá me chamo Felipe Matthew, Sou desenvolvedor Fullstack JavaScript junior, estudante de análise e desenvolvimento de sistemas.
 </p>
 
 <p align="left">
