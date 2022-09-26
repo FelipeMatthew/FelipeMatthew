@@ -1,34 +1,34 @@
 ## ​🎓​Felipe Matthew​🎓​
-### Saudações! 
+### Hey there! 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-​⭐​ Seja bem-vindo(a) ao meu github ​⭐​ <br><br>
-  Olá me chamo Felipe Matthew, Sou desenvolvedor Fullstack JavaScript junior, estudante de análise e desenvolvimento de sistemas.
+​⭐​ Welcome to my GitHub ​⭐​ <br><br>
+ I'm Felipe Matthew, a junior Fullstack JavaScript developer, student of systems analysis and development.
 </p>
 
 <p align="left">
-  📚 Cursando Análise e desenvolvimento de sistemas.
+  📚 Studying Systems Analysis and Development.
 </p>
 
 <p align="left">
-  💼 Estudando para se tornar um developer fullstack.
+  💼 Javascript developer junior.
 </p>
 
 <p align="left">
-  🤹Multitasking, cooperativo, amante de tecnologia e programação.
+  🤹Multitasking, cooperative, tech and programming lover.
 </p>
 
 <p align="left">
-  🥰 Gosto de criar sites e aplicações, visando sempre a evolução
+  🥰 I like to create websites and applications, always aiming for evolution.
 </p>
 <br>
 
 
 </p> 
 
-## 🚀 Tecnologias e linguagens
+## 🚀 Technologies and languages
 
 <code>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</code>
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
@@ -50,13 +50,13 @@
 <code>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)</code>
 <code>![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</code>
 
-## ☎️ Contatos
+## ☎️ Contacts
   <a href = "mailto:felipematthewnascimento.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.linkedin.com/in/felipe-matthew-8312b421b/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://www.instagram.com/felpsnova_/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <br><br>
   
-## 📈 Estátiscias
+## 📈 Statistics
 <br>
 <div align="left">
   <a href="https://github.com/FelipeMatthew">
