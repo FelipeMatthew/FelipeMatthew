@@ -30,7 +30,7 @@
 
 ## 🚀 Technologies and languages
 
-### 🚀 Languages
+### 🖥 Languages
 
 <code><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
@@ -38,7 +38,7 @@
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></code>
 <code>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)</code>
 
-### 🚀 Frameworks, Platforms and Libraries
+### ✨ Frameworks, Platforms and Libraries
 
 <code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
 <code>![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</code>
@@ -60,9 +60,10 @@
 <code>![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</code>
 <code>![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)</code>
 <code>![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)</code>
+<code><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></code>
 
 
-### 🚀 Databases
+### 💾 Databases
 
 <code>![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)</code>
 <code>![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)</code>
@@ -70,7 +71,7 @@
 <code>![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)</code>
 <code><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></code>
 
-### 🚀 Hosting, Sever, Saas
+### ☁ Hosting, Sever, Saas
 
 <code>![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)</code>
 <code>![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)</code>
@@ -79,23 +80,10 @@
 <code>![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)</code>
 
 
-### 🚀 ORM - Mapeamento objeto-relacional
+### 🥀 ORM - Mapeamento objeto-relacional
 
 <code>![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)</code>
 <code>![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)</code>
-
-### 🚀 
-
-
-<code><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></code>
-
-
-
-
-
-
-
-
 
 
 ## ☎️ Contacts
